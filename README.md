@@ -9,6 +9,8 @@ Once you have set the player, the goal, and optionally the obstacles, press Ente
 
 The purple path that appears is the shortest path between the player and the goal.
 
+If you want to restart press 'c' on your keyboard.
+
 Notes
 You can delete the goal, player, or obstacles by left-clicking on them.
 If you press Enter without setting the positions of both the player and the goal, the algorithm will not start.
